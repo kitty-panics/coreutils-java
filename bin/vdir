@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# vdir
+#
+
+java -jar /usr/share/java/coreutils-java/vdir.jar "$@"

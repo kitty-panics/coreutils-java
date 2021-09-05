@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# sync
+#
+
+java -jar /usr/share/java/coreutils-java/sync.jar "$@"

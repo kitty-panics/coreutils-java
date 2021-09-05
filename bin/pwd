@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# pwd
+#
+
+java -jar /usr/share/java/coreutils-java/pwd.jar "$@"

@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# ln
+#
+
+java -jar /usr/share/java/coreutils-java/ln.jar "$@"

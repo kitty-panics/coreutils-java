@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# sha512sum
+#
+
+java -jar /usr/share/java/coreutils-java/sha512sum.jar "$@"

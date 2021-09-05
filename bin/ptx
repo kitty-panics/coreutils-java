@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# ptx
+#
+
+java -jar /usr/share/java/coreutils-java/ptx.jar "$@"

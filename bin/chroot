@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# chroot
+#
+
+java -jar /usr/share/java/coreutils-java/chroot.jar "$@"

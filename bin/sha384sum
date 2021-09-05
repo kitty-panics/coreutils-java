@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# sha384sum
+#
+
+java -jar /usr/share/java/coreutils-java/sha384sum.jar "$@"

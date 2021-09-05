@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# unexpand
+#
+
+java -jar /usr/share/java/coreutils-java/unexpand.jar "$@"

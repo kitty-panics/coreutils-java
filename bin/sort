@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# sort
+#
+
+java -jar /usr/share/java/coreutils-java/sort.jar "$@"

@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# tee
+#
+
+java -jar /usr/share/java/coreutils-java/tee.jar "$@"

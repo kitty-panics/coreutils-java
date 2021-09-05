@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# logname
+#
+
+java -jar /usr/share/java/coreutils-java/logname.jar "$@"

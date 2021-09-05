@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# true
+#
+
+java -jar /usr/share/java/coreutils-java/true.jar "$@"

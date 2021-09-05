@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# stat
+#
+
+java -jar /usr/share/java/coreutils-java/stat.jar "$@"

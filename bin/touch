@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#
+# touch
+#
+
+java -jar /usr/share/java/coreutils-java/touch.jar "$@"
